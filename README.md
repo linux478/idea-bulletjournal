@@ -6,6 +6,8 @@
 
 * [Legend](#legend)
 * [Signifiers](#signifiers)
+* [License](#license)
+* [Donation](#donation)
 
 ## Legend
 
