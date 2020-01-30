@@ -2,6 +2,11 @@
 
 > Documenting the ideas to convert a bullet journal to a digital copy.  This will help with searching and archiving
 
+## Table of Contents
+
+* [Legend](#legend)
+* [Signifiers](#signifiers)
+
 ## Legend
 
     [.] - task incomplete
