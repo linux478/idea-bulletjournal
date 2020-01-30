@@ -12,11 +12,11 @@
 
 ## Signifiers
 
-replace [ with ! for important
-replace [ with * for priority
-replace [ with ? for research
-replace ] with > for migration to collection
-replace ] with < for migration to future
+    replace [ with ! for important
+    replace [ with * for priority
+    replace [ with ? for research
+    replace ] with > for migration to collection
+    replace ] with < for migration to future
 
 ## License
 
