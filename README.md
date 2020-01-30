@@ -4,11 +4,11 @@
 
 ## Legend
 
-[.] - task incomplete
-[/] - waiting for something
-[X] - completed a task
-[-] - note
-[O] - event
+* [.] - task incomplete
+* [/] - waiting for something
+* [X] - completed a task
+* [-] - note
+* [O] - event
 
 
 
